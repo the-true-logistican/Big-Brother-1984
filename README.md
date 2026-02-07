@@ -26,3 +26,5 @@ However, the accounting department also needs to be aware of this.
 This means the Big Brother module observes the activity, generates an event and then you can make the appropriate 
 accounting entry. This is standard practice in every company, so if you notice a change that hasn't been posted, 
 it must be posted retrospectively.
+
+The mod was created using AI mainly Claude - Gemini and DeepL (write)
